@@ -1,5 +1,6 @@
 module github.com/riking/AutoDelete
 
+// +heroku install ./cmd/autodelete
 go 1.13
 
 require (
